@@ -17,7 +17,7 @@ function App() {
   });
 
   return (
-    <div className="App" style={{ padding: "20px", fontFamily: "Arial" }}>
+    <div className="App" style={{ padding: "20px", fontFamily: "century gothic" }}>
       <h1>Product Catalog</h1>
       <Searchbar
         searchQuery={searchQuery}
